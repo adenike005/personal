@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adenike005/personal.git/static/css/main.2a165c66.css",
+    "main.js": "/adenike005/personal.git/static/js/main.8d6ea66d.js",
+    "static/media/IMG-20230309-WA0028.jpg": "/adenike005/personal.git/static/media/IMG-20230309-WA0028.064cf1bd8be1dcdffbff.jpg",
+    "static/media/A7.jpg": "/adenike005/personal.git/static/media/A7.8ee553de153dca9bb22f.jpg",
+    "static/media/A4.jpg": "/adenike005/personal.git/static/media/A4.7ed6af3cce75c49742f9.jpg",
+    "static/media/A5.jpg": "/adenike005/personal.git/static/media/A5.cb014e76959495ea456c.jpg",
+    "static/media/A9.jpg": "/adenike005/personal.git/static/media/A9.085afca84909464792e1.jpg",
+    "static/media/A11.jpg": "/adenike005/personal.git/static/media/A11.f644650ba25a627d521c.jpg",
+    "static/media/A8.jpg": "/adenike005/personal.git/static/media/A8.8729589a6d6bd246d583.jpg",
+    "static/media/A12.jpg": "/adenike005/personal.git/static/media/A12.aaf96470dd19597b6511.jpg",
+    "static/media/A10.jpg": "/adenike005/personal.git/static/media/A10.b339141de181c4e2306e.jpg",
+    "static/media/A2.jpg": "/adenike005/personal.git/static/media/A2.7c7bf5c0eb30f474503e.jpg",
+    "static/media/A6.jpg": "/adenike005/personal.git/static/media/A6.f0cc5a127078753dd371.jpg",
+    "static/media/A1.jpg": "/adenike005/personal.git/static/media/A1.b4104dbd4fba41d96312.jpg",
+    "static/media/A13.jpg": "/adenike005/personal.git/static/media/A13.bb3652cefedc90f01740.jpg",
+    "index.html": "/adenike005/personal.git/index.html",
+    "main.2a165c66.css.map": "/adenike005/personal.git/static/css/main.2a165c66.css.map",
+    "main.8d6ea66d.js.map": "/adenike005/personal.git/static/js/main.8d6ea66d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a165c66.css",
+    "static/js/main.8d6ea66d.js"
+  ]
+}
